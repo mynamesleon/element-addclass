@@ -1,7 +1,7 @@
 {
     "name": "element-addclass",
     "version": "1.0.1",
-    "description": "Tiny helper module for adding classes to elements",
+    "description": "Tiny zero dependency helper module for adding classes to elements",
     "source": "src/element-addclass.js",
     "main": "dist/element-addclass.js",
     "module": "dist/element-addclass.mjs",

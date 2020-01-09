@@ -1,6 +1,6 @@
 # element-addclass
 
-Tiny helper module for adding classes to elements.
+Tiny zero dependency helper module for adding classes to elements.
 
 This emulates jQuery's `addClass` behaviour: it works for multiple elements, can take a space delimitted String for multiple classes, won't add duplicate classes, and even works in awful browsers.
 
