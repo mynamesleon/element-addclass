@@ -2,7 +2,7 @@
 
 Tiny helper module for adding classnames to an element.
 
-This emulates jQuery's `addClass` behaviour; it works for multiple elements, takes a space delimitted String for multiple classnames, won't add duplicate class names, and works even in awful browsers.
+This emulates jQuery's `addClass` behaviour: it works for multiple elements, can take a space delimitted String for multiple classes, won't add duplicate classes, and even works in awful browsers.
 
 ```javascript
 addClass(elements, 'class-1 class-2 class-3');
