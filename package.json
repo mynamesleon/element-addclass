@@ -1,0 +1,34 @@
+{
+    "name": "element-addclass",
+    "version": "1.0.0",
+    "description": "Tiny helper module for adding classnames to an element",
+    "source": "src/element-addclass.js",
+    "main": "dist/element-addclass.js",
+    "module": "dist/element-addclass.mjs",
+    "unpkg": "dist/element-addclass.umd.js",
+    "scripts": {
+        "build": "microbundle --sourcemap false --name addClass"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mynamesleon/element-addclass.git"
+    },
+    "keywords": [
+        "addClass",
+        "element",
+        "element-addclass"
+    ],
+    "files": [
+        "src",
+        "dist"
+    ],
+    "author": "Leon Slater (https://www.mynamesleon.com)",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/mynamesleon/element-addclass/issues"
+    },
+    "homepage": "https://github.com/mynamesleon/element-addclass#readme",
+    "dependencies": {
+        "microbundle": "^0.11.0"
+    }
+}
