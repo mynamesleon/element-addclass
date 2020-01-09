@@ -1,6 +1,6 @@
 {
     "name": "element-addclass",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Tiny helper module for adding classes to elements",
     "source": "src/element-addclass.js",
     "main": "dist/element-addclass.js",
@@ -28,7 +28,8 @@
         "url": "https://github.com/mynamesleon/element-addclass/issues"
     },
     "homepage": "https://github.com/mynamesleon/element-addclass#readme",
-    "dependencies": {
+    "dependencies": {},
+    "devDependencies": {
         "microbundle": "^0.11.0"
     }
 }
